@@ -1,10 +1,10 @@
 {
-    "name": "(Novum Inspired)",
-    "description": "Rosie theme with Novum-inspired red galaxy palette (Port of Enmity theme). Thanks Rosie<3",
+    "name": "Red :3",
+    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
     "version": "1",
     "authors": [
         {
-            "name": "Rairof",
+            "name": "Drcatto",
             "id": "807170846497570848"
         }
     ],
@@ -209,6 +209,13 @@
         ]
     },
     "rawColors": {
+        "BLUE_260": "#992727",
+        "BLUE_300": "#aa2f2f",
+        "BLUE_330": "#aa2f2f",
+        "BLUE_345": "#d4393926",
+        "BLUE_360": "#aa2f2f",
+        "BLUE_400": "#992727",
+        "BLUE_430": "#aa2f2f",
         "BRAND_260": "#992727",
         "BRAND_300": "#aa2f2f",
         "BRAND_330": "#aa2f2f",
@@ -216,20 +223,28 @@
         "BRAND_360": "#aa2f2f",
         "BRAND_400": "#992727",
         "BRAND_430": "#aa2f2f",
-        "RED_400": "#992727",
-        "RED_500": "#aa2f2f",
-        "YELLOW_300": "#d4393926",
         "GUILD_BOOSTING_PINK": "#992727",
         "GUILD_BOOSTING_PURPLE": "#aa2f2f",
         "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#d4393926",
-        "ORANGE_345": "#992727"
+        "RED_260": "#992727",
+        "RED_300": "#aa2f2f",
+        "RED_330": "#aa2f2f",
+        "RED_345": "#d4393926",
+        "RED_360": "#aa2f2f",
+        "RED_400": "#992727",
+        "RED_430": "#aa2f2f",
+        "ORANGE_345": "#992727",
+        "PLUM_1": "#F4F3F3",
+        "PLUM_3": "#992727",
+        "PLUM_4": "#aa2f2f"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Drcatt0/Themes/refs/heads/main/ClearVision/Vendetta/IMG_6036.jpg"
+        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Bold.ttf?raw=1"
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/Kfk07Ux.jpeg",
+        "url": "https://raw.githubusercontent.com/Drcatt0/Themes/refs/heads/main/ClearVision/Vendetta/IMG_6036.jpg",
         "OPACITY": 0
     },
     "plus": {
