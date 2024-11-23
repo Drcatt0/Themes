@@ -1,5 +1,5 @@
 {
-    "name": "RosieDark (Novum Inspired)",
+    "name": "(Novum Inspired)",
     "description": "Rosie theme with Novum-inspired red galaxy palette (Port of Enmity theme). Thanks Rosie<3",
     "version": "1",
     "authors": [
@@ -225,7 +225,7 @@
         "ORANGE_345": "#992727"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-ExtraBold.ttf?raw=1"
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Drcatt0/Themes/refs/heads/main/ClearVision/Vendetta/IMG_6036.jpg"
     },
     "background": {
         "blur": 0.1,
